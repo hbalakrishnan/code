@@ -1,6 +1,6 @@
 # code
 
-The file has following entries like list of musical items
+The musical_group.tsv has following entries like list of musical items
 ```
 Yearbook Committee	/m/0dykyh3
 Scratch Me Scratch	/m/0f403mn
